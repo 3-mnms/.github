@@ -1,1 +1,1 @@
-# MNMS(Rookies 3조)
+# MNMS
